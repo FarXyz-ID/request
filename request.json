@@ -5,5 +5,12 @@
     "timestamp": "2025-07-19T01:03:29.702Z",
     "battery": "91%",
     "charging": true
+  },
+  {
+    "name": "Nixx",
+    "request": "Welcome\nSetwelcome\nGoodbye\nSetgoodbye",
+    "timestamp": "2025-07-19T01:25:09.844Z",
+    "battery": "83%",
+    "charging": false
   }
 ]
