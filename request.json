@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "g",
+    "request": "g",
+    "timestamp": "2025-07-19T01:03:29.702Z",
+    "battery": "91%",
+    "charging": true
+  }
+]
