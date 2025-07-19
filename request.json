@@ -29,9 +29,16 @@
   },
   {
     "name": "araaa",
-    "request": "anu minta html req ini bisa gak😓 lagi butuh",
+    "request": "anu minta html req ini bisa gakð lagi butuh",
     "timestamp": "2025-07-19T03:01:20.023Z",
     "battery": "82%",
+    "charging": false
+  },
+  {
+    "name": "jkt48",
+    "request": "bang fitur jkt48 auto kirim ke saluran. news, live idn sama showroom bang",
+    "timestamp": "2025-07-19T03:39:12.881Z",
+    "battery": "79%",
     "charging": false
   }
 ]
