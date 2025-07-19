@@ -29,7 +29,7 @@
   },
   {
     "name": "araaa",
-    "request": "anu minta html req ini bisa gakð lagi butuh",
+    "request": "anu minta html req ini bisa gakÃ°ÂÂÂ lagi butuh",
     "timestamp": "2025-07-19T03:01:20.023Z",
     "battery": "82%",
     "charging": false
@@ -39,6 +39,13 @@
     "request": "bang fitur jkt48 auto kirim ke saluran. news, live idn sama showroom bang",
     "timestamp": "2025-07-19T03:39:12.881Z",
     "battery": "79%",
+    "charging": false
+  },
+  {
+    "name": "ell",
+    "request": "fitur case cerita rumah misteri. untuk apinya ini: https://api.siputzx.my.id/api/r/rumahmisteri",
+    "timestamp": "2025-07-19T03:43:58.544Z",
+    "battery": "17%",
     "charging": false
   }
 ]
